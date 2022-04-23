@@ -7,7 +7,6 @@ import sys
 from chess_library import ChessEngine, SmartMoveFinder
 from multiprocessing import Process, Queue
 
-import Chess
 
 WIDTH = HEIGHT = 512
 MOVE_LOG_PANEL_WIDTH = 250
